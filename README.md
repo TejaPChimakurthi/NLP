@@ -40,13 +40,21 @@ For Steps 5-9, PyTorch library is recommended, and for pre-trained transformers,
 
 Embark on this structured learning path to master the intricacies of NLP, from foundational concepts to advanced deep learning models. Happy learning!
 
+The NLP_ML.ipynb file contains the pratical implementation all machine learning topics from step 1-3. 
+
+The NLP_DL.ipynb file contains pratical implementation of Simple RNN, LSTM RNN (Uni and Bi directional), GRU RNN (Uni and Bi directional)
+
+encoder_decoder_seq2seq_basic contains Encoder and decoder implementation using PYTORCH. I recommand to follow the bentrevett github repo pytorch-seq2seq for sequence2sequence models.
+
 I learned this from NLP live session from Krish naik youtube channel. Its have amazing videos for NLP beginners. I recommed you watch these videos if you are new to NLP. THANK YOU KRISH.
 
-https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn <br>
 
 Additional blogs and github resources:
 
-https://colah.github.io/
-https://jalammar.github.io/illustrated-transformer/
-https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main
-https://github.com/rasbt/machine-learning-book/tree/main
+https://colah.github.io/  <br>
+https://jalammar.github.io/illustrated-transformer/  <br>
+https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main  <br>
+https://github.com/rasbt/machine-learning-book/tree/main  <br>
+
+https://github.com/bentrevett/pytorch-seq2seq/tree/master <br>
